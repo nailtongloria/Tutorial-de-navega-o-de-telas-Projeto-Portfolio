@@ -41,7 +41,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8080/api/funcionarios/4",
+					"raw": "http://localhost:8080/api/funcionarios/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -50,7 +50,7 @@
 					"path": [
 						"api",
 						"funcionarios",
-						"4"
+						"1"
 					]
 				}
 			},
@@ -91,7 +91,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/funcionarios/3",
+					"raw": "http://localhost:8080/api/funcionarios/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -100,7 +100,7 @@
 					"path": [
 						"api",
 						"funcionarios",
-						"3"
+						"1"
 					]
 				}
 			},
